@@ -1,0 +1,14 @@
+{
+  "project": "nicolas-leonard-sadi-carnot-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "4uoHuDHivsANMLHj8qAuTUrwD1bqxfz6ZfwRTH1kdR1c",
+  "vault_account": "6exGGGTDCzEvWQ3LQnyCRJYpFQRx2Vti4P3saV42YYoF",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3vhioJBcQfjckXbtb4wS5PG8jTEikzjsngtVQK2ke33K9sgBZZyrz4Yyj2CWHFbRxPMTXZRASiF7UffxPEMc4AsA",
+  "account_tx": "4pHnNvALqRwZW4hyqnunvbNktvGCoUSKydcexehrUdTZ6sEqG1PEbxi91nHg1HXevjEaZczcuqVWZqYacoKJJcEr",
+  "mint_tx": "324GW9HcMo14K5Ma8Pa21WPKiGruEi1kZWXqSmbMJo2MQjQkB5kjZjQrwTDXqSyXAVxJNc7mNkKd46RJomqFamu1",
+  "solana_explorer_mint": "https://explorer.solana.com/address/4uoHuDHivsANMLHj8qAuTUrwD1bqxfz6ZfwRTH1kdR1c?cluster=devnet",
+  "timestamp": "2026-10-26 16:50:54 UTC"
+}
